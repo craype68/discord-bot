@@ -1,0 +1,9 @@
+
+{
+    "token": "NzkyODYxOTcwODQ4MTUzNjMx.X-j4QA.LIdxUN9LgpDwv3c3U7Q0_75nyOU",
+    "prefix": "!",
+    "greeting": {
+        "channel": "ID du salon de bienvenue",
+        "role": "ID de l'autorole"
+    }
+}
